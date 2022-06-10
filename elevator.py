@@ -1,6 +1,6 @@
 
 from graphs import *
-
+#vagner gostozão e MasterBerto delicia
 if __name__ == "__main__":
     print("Simulation started at {}".format(datetime.now().strftime("%H:%M:%S")))
     start_time = time.perf_counter()
